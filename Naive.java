@@ -21,7 +21,7 @@ public class Naive
 	            }
 	        }
 	        if(flag==1)
-	        	System.out.println("Pattern found at index " + i); 
+	        	System.out.println("Pattern found"); 
 	        else
 	        	System.out.println("Pattern not found"); 
 	    } 
