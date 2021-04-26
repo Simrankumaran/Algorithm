@@ -7,7 +7,7 @@ import java.awt.FlowLayout;
 import javax.swing.*;
 
 
-public class bleh
+public class index
 {
 	static JTextField textfield1, textfield2;
 	static GraphicsConfiguration gc;
